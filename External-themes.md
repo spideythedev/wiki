@@ -15,7 +15,7 @@ Check out the instructions [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Custom
 ---
 
 
-### Corbon
+### Corbon 
 
 A lightweight and highly customizable Zsh prompt engine designed for developers. Corbon provides a flexible two-line or single-line prompt with Git integration, runtime detection, configurable color palettes, symbols, and optional environment indicators.
 
