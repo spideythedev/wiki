@@ -14,6 +14,33 @@ Check out the instructions [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Custom
 
 ---
 
+
+### Corbon
+
+A lightweight and highly customizable Zsh prompt engine designed for developers. Corbon provides a flexible two-line or single-line prompt with Git integration, runtime detection, configurable color palettes, symbols, and optional environment indicators.
+
+![Corbon](https://github.com/spideythedev/corbon-zsh-theme/blob/main/ss1.png)
+
+#### Features
+
+- Customizable prompt layouts (one-line and two-line).
+- Configurable color palettes and prompt symbols.
+- Git branch and working-tree status indicators.
+- Git staged, unstaged, untracked, and conflict indicators.
+- Git ahead/behind tracking.
+- Python, Node.js, Go, Rust, Java, and Ruby runtime detection.
+- Command execution duration and exit-status indicators.
+- Optional Docker, Kubernetes, Terraform, AWS, GCP, and Azure indicators.
+- SSH, root, container, and background-job indicators.
+- Configurable prompt segments and custom segment registration.
+- Lightweight caching for Git and runtime information.
+
+**Repository:** https://github.com/spideythedev/corbon-zsh-theme
+
+**Author:** [@spideythedev](https://github.com/spideythedev)
+
+---
+
 <div align="center">
 
 ### Simplerich Theme
