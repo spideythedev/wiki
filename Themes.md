@@ -5,11 +5,11 @@ A lightweight, customizable Zsh prompt theme with configurable layouts, Git stat
 ## Screenshots
 
 ### SS1
-[![Corbon SS1](https://github.com/spideythedev/corbon-zsh-theme/ss1.png)
+![Corbon SS1](https://github.com/spideythedev/corbon-zsh-theme/ss1.png)
 ### SS2
-[!Corbon SS2](https://github.com/spideythedev/corbon-zsh-theme/ss2.png)
+![Corbon SS2](https://github.com/spideythedev/corbon-zsh-theme/ss2.png)
 ### SS3
-[![Corbon SS3](https://github.com/spideythedev/corbon-zsh-theme/ss3.png)
+![Corbon SS3](https://github.com/spideythedev/corbon-zsh-theme/ss3.png)
 
 **Repository:** https://github.com/spideythedev/corbon-zsh-theme
 
